@@ -1,5 +1,5 @@
 # Repositório do Desafio do Projeto sobre Git/GitHub do BootCamp Dio/Inter 2022
-Reposítório processo de aprendizado
+Manual para Iniciantes em Programção
 
 ## Apresentação:
  - Para os que estão iniciando a carreira na área da programação venho partilhar algumas dicas importantes tais como:
@@ -23,7 +23,11 @@ Reposítório processo de aprendizado
 
 [Download GitHub](https://git-scm.com/download/win)
 
-[Aprendendo Sempre](  
+[Canal Digital Innovation One](https://www.youtube.com/channel/UCMxqhdELkftE8DuBZiwdPfg) 
+
+[Orbi Conecta](https://orbi.co)
+
+[San Pedro Valley](https://www.sanpedrovalley.org)
 
 - Compartilhar e partilhar esta experiência é o mais importante! 
 
