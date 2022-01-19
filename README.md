@@ -3,3 +3,6 @@ Reposítório criado para o desafio de projetos
 
 ## Links úteis
 [Sintase Básica Markdown](https://www.markdownguide.org)
+
+[Download GitHub](https://git-scm.com/download/win)
+
